@@ -1,6 +1,6 @@
 ## Catapulta Chain Ops Suite
 
-[Catapulta.sh](https://catapulta.sh/docs)_ is a Chain Ops Suite to improve Dev UX for smart contracts deployments, which integrates with Foundry to enable better observability at deployment, keep track of past deployments, host your artifacts and addresses, and automate Etherscan verification, all without making any changes at your Solidity deployment scripts.
+[Catapulta.sh](https://catapulta.sh/docs) is a Chain Ops Suite to improve Dev UX for smart contracts deployments, which integrates with Foundry to enable better observability at deployment, keep track of past deployments, host your artifacts and addresses, and automate Etherscan verification, all without making any changes at your Solidity deployment scripts.
 
 Catapulta users also benefit for minimal deployment config, with one Catapulta API key you can access to multiple networks, and remove the need to handle RPC URLs, Etherscan URLs or Etherscan API keys in your Foundry project.
 
