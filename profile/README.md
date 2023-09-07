@@ -10,5 +10,5 @@ To get started, you can:
 - Check [Catapulta Foundry Template](https://github.com/catapulta-sh/catapulta-forge-template), with a step by step guide to deploy using Catapulta.
 - Check [Catapulta docs](https://catapulta.sh/docs) to learn more
 
-- 
+
 If you need any support, please join the [Catapulta Discord](https://discord.gg/kFB2shypna) and ask at the #support channel, or send a DM to @kartojal at Twitter or Telegram.
