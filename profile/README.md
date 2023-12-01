@@ -8,11 +8,13 @@ Catapulta users also benefit for minimal deployment config, with one Catapulta A
 
 <img src="https://github.com/catapulta-sh/.github/assets/11179847/a736b833-7a37-4d2e-9748-a8a42304121c." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/catapulta-sh/.github/assets/11179847/a736b833-7a37-4d2e-9748-a8a42304121c)" width="400" height="400" />
 
-Contact: send a DM to @kartojal at Telegram or Twitter
 
-To get started, you can:
+### Get started
+
 - Check [Catapulta Foundry Template](https://github.com/catapulta-sh/catapulta-forge-template), with a step by step guide to deploy using Catapulta at Foundry.
 - Check [Catapulta Hardhat Template with ScaffoldEth2](https://github.com/catapulta-sh/catapulta-scaffold-eth-2), with a step by step guide to deploy using Catapulta at Hardhat.
 - Check [Catapulta docs](https://catapulta.sh/docs) to learn more
 - Check [Catapulta Verifier Lite](https://github.com/catapulta-sh/verifier) to verify nested Foundry script deployments with your `broadcast/<Deploy.s.sol>/<chain-id/run-latest.json` broadcast JSON file, for free.
 
+### Contact
+Send a DM to @kartojal at Telegram or Twitter
